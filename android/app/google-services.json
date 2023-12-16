@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821264135068",
+    "project_id": "booking-sys-f8778",
+    "storage_bucket": "booking-sys-f8778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821264135068:android:198dc63016a19a6d9b8e59",
+        "android_client_info": {
+          "package_name": "com.example.easy_flight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMzY-Y6OBv78npiq9a23eZeVWhM1NAjkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
